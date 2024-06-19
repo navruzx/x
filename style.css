@@ -1,0 +1,28 @@
+.a {
+    text-decoration: underline double;
+    align-items: center;
+    text-align: center;
+}
+.b {
+    text-decoration: dashed line-through;
+    align-items: center;
+    text-align: center;
+}
+.d {
+    text-decoration: dotted overline;
+    
+    text-align: center;
+}
+.e {
+    text-decoration: overline underline line-through pink wavy;
+    align-items: center;
+    text-align: center;
+}
+h1 {
+    color: red;
+    text-align: center;
+}
+h2 {
+    color: green;
+    text-align: center;
+}
